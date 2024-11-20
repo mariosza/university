@@ -22,5 +22,5 @@ The language of the written solutions is indicated by [GR] for Greek, and [EN] f
       - Bonus Programming Assignment: ...
   2. *Resources*
 
-      For this course and for any linear algebra course I recommend the video lectures by Professor Gilbert Strang for MIT 18.06 ([Video Lectures](https://ocw.mit.edu/18-06SCF11)).
+      For this course and for any linear algebra course I recommend the video lectures by Professor Gilbert Strang for MIT 18.06 ([Course Page](https://ocw.mit.edu/18-06SCF11)).
       For exam preparation, as with any other math course, I would recommend that you try to solve past papers and assignments on your own and look at solutions when you get stuck 😕.
