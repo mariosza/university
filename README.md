@@ -7,8 +7,9 @@ Welcome to my (very incomplete) collection of academic projects, assignments, la
 3. [Contact](#contact)
 
 ## Courses
-This is a list of my courses and some of the assignments I was able to find with written solutions (some may be wrong).
-- CS-119: Linear Algebra
+This is a list of my courses and some of the assignments I was able to find with written solutions (some may of course be wrong). 
+The language of the written solutions is indicated by [GR] for Greek, and [EN] for English.
+- *CS-119: Linear Algebra*
   1. Assignments
       - Assignment 1: Matrix Multiplication and Gauss Elimination (Assignment, Solutions) [GR]
       - Assignment 2: Triangular Factors and Row Exchanges, Inverse and Transpose Matrices (Assignment, Solutions) [GR]
